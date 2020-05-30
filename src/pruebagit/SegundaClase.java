@@ -10,5 +10,7 @@ package pruebagit;
  * @author unomi
  */
 public class SegundaClase {
-    
+    public static void main(String[] args) {
+        
+    }
 }
