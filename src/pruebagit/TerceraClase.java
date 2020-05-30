@@ -10,5 +10,5 @@ package pruebagit;
  * @author unomi
  */
 public class TerceraClase {
-    
+    private int numero;
 }
